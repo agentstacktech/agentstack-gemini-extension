@@ -1,0 +1,11 @@
+{
+  "name": "agentstack",
+  "version": "1.0.0",
+  "description": "AgentStack: backend platform for AI agents. One agentstack.execute tool runs batched steps over ~668 actions (hosting, storage, auth, payments, CRM, app builder).",
+  "mcpServers": {
+    "agentstack": {
+      "httpUrl": "https://agentstack.tech/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
